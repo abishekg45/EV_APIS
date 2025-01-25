@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "make": "Tesla",
+    "model": "Model X",
+    "battery_capacity": 120,
+    "charge_level": 90
+  },
+  {
+    "id": 3,
+    "make": "Chevrolet",
+    "model": "Bolt",
+    "battery_capacity": 66,
+    "charge_level": 90
+  },
+  {
+    "id": 4,
+    "make": "KIAs",
+    "model": "Model X",
+    "battery_capacity": 120,
+    "charge_level": 90
+  }
+]
